@@ -15,7 +15,7 @@ from keras.optimizers import SGD, Adam
 #from sklearn.metrices import accuracy_score, f1_Score
 
 
-test_path="C:\\Users\\Slipa\\PycharmProjects\\tipra2\\data\\MNIST"
+test_path="C:\\Users\\Shilpa\\PycharmProjects\\tipra2\\data\\MNIST"
 
 vector=[]
 
@@ -185,8 +185,8 @@ list1=[42.39,45.49,62.12,64.98,68.08,70.78,78.82,88.51,92.95,94.36,96.81,97.09,9
 epochs=[i for i in range(51)]
 #plt.plot(epochs,list1, color="black")
 plt.plot(epochs,list1)
-plt.xlabel('Keras_iteration')
-plt.ylabel('Keras_accuracy')
+plt.xlabel('Iteration')
+plt.ylabel('Accuracy with Keras')
 plt.legend(['MNIST_dataset'])
 #plt.legend()
 plt.savefig(os.getcwd()+'/part_1_task_5.png')
