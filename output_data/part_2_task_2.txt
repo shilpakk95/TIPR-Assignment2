@@ -1,0 +1,24 @@
+ Config layers :[40000 , 30 , 30 ,2]
+Test accuracy :: 0.9898
+Test Macro F1-score :: 0.9864 
+Test Micro F1-score :: 0.9875
+
+Config layers :[40000 , 20 , 20 ,2]
+Test accuracy :: 0.9886
+Test Macro F1-score :: 0.9814
+Test Micro F1-score :: 0.9873
+
+Config layers :[40000 , 10 , 10 ,2]
+Test accuracy :: 0.9867
+Test Macro F1-score :: 0.9804
+Test Micro F1-score :: 0.9865
+
+Config layers :[40000 , 45 , 50 ,2]
+Test accuracy :: 0.9806
+Test Macro F1-score :: 0.9794
+Test Micro F1-score :: 0.9855
+
+Config layers :[40000 , 35 , 40 ,2]
+Test accuracy :: 0.9756
+Test Macro F1-score :: 0.9764
+Test Micro F1-score :: 0.9775
