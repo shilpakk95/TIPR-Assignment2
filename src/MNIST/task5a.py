@@ -15,7 +15,7 @@ from keras.optimizers import SGD, Adam
 #from sklearn.metrices import accuracy_score, f1_Score
 
 
-test_path="C:\\Users\\Slipa\\PycharmProjects\\tipra2kdmsit\\data\\MNIST"
+test_path="C:\\Users\\Slipa\\PycharmProjects\\tipra2\\data\\MNIST"
 
 vector=[]
 
