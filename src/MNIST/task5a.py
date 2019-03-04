@@ -185,7 +185,7 @@ list1=[42.39,45.49,62.12,64.98,68.08,70.78,78.82,88.51,92.95,94.36,96.81,97.09,9
 epochs=[i for i in range(51)]
 #plt.plot(epochs,list1, color="black")
 plt.plot(epochs,list1)
-plt.xlabel('Iteration')
+plt.xlabel('Epoch')
 plt.ylabel('Accuracy with Keras')
 plt.legend(['MNIST_dataset'])
 #plt.legend()
