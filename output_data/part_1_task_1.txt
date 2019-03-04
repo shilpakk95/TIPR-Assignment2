@@ -1,0 +1,19 @@
+Number of layers :3
+Test accuracy :: 0.9678
+Test Macro F1-score :: 0.9884
+Test Micro F1-score :: 0.9875
+
+Number of layers :4
+Test accuracy :: 0.9546
+Test Macro F1-score :: 0.9704
+Test Micro F1-score :: 0.9764
+
+Number of layers :5
+Test accuracy :: 0.4567
+Test Macro F1-score :: 0.4001
+Test Micro F1-score :: 0.4823
+
+Number of layers :6
+Test accuracy :: 0.3876
+Test Macro F1-score :: 0.2234
+Test Micro F1-score :: 0.3781
